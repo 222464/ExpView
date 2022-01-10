@@ -25,4 +25,4 @@ The app then provides a convenient view of the plots so they can be compared. Co
 
 ## Screenshot
 
-[screenshot](./screenshot1.png)
+![screenshot](./screenshot1.png)
